@@ -1,2 +1,3 @@
 Hello!
-this is SCM class 
+this is SCM class
+new line
